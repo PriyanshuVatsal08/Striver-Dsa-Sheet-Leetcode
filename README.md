@@ -6,9 +6,15 @@ Striver a to z dsa sheet
 ## Array
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/PriyanshuVatsal08/Striver-Dsa-Sheet-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/PriyanshuVatsal08/Striver-Dsa-Sheet-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/PriyanshuVatsal08/Striver-Dsa-Sheet-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/PriyanshuVatsal08/Striver-Dsa-Sheet-Leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/PriyanshuVatsal08/Striver-Dsa-Sheet-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
