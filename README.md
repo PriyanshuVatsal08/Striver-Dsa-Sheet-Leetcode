@@ -10,6 +10,7 @@ Striver a to z dsa sheet
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PriyanshuVatsal08/Striver-Dsa-Sheet-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/PriyanshuVatsal08/Striver-Dsa-Sheet-Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/PriyanshuVatsal08/Striver-Dsa-Sheet-Leetcode/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/PriyanshuVatsal08/Striver-Dsa-Sheet-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/PriyanshuVatsal08/Striver-Dsa-Sheet-Leetcode/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/PriyanshuVatsal08/Striver-Dsa-Sheet-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/PriyanshuVatsal08/Striver-Dsa-Sheet-Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -47,4 +48,5 @@ Striver a to z dsa sheet
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/PriyanshuVatsal08/Striver-Dsa-Sheet-Leetcode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/PriyanshuVatsal08/Striver-Dsa-Sheet-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
